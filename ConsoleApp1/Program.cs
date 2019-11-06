@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Some Other Text");
+            Console.WriteLine("It`s third branch");
         }
     }
 }
